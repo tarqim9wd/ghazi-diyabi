@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://mydream.mbc.net/favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap" rel="stylesheet">
+    <title>ألف مبروك! 🌟</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #3c0d5a;
+            font-family: "Almarai", sans-serif;
+            color: #ffffff;
+            text-align: center;
+            line-height: 1.6;
+        }
+        header, footer {
+            background-color: #31074d;
+            padding: 15px 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 15px;
+        }
+        .main {
+            padding: 30px 15px;
+            background: #400f61;
+            border-radius: 15px;
+        }
+        .author {
+            margin: 20px 0;
+        }
+        .author img {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
+        }
+        .claim_content {
+            background-color: #ffffff;
+            color: #000000;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        #claim_button {
+            background-color: #ff5722;
+            color: #ffffff;
+            font-size: 18px;
+            padding: 15px;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: 700;
+            display: block;
+            width: 80%;
+            max-width: 300px;
+            margin: 20px auto;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        #claim_button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        .app_banner img {
+            width: 100%;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+        footer p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>مبروك لك! 🎉</h1>
+        </div>
+    </header>
+    <section class="main container">
+        <div class="author">
+            <img src="https://d.top4top.io/p_3145koznr1.png" alt="Author Image">
+        </div>
+        <div class="claim_content">
+            <h2>تهانينا! 🎉</h2>
+            <p>تم اختيارك كفائز لفرصة ربح 10,000 دولار أو سيارة فاخرة!</p>
+            <p>سارع بالتسجيل الآن للاستفادة من الفرصة قبل انتهاء الوقت.</p>
+            <a href="https://smrturl.co/alhamdo-lilah-~591348l" id="claim_button">اضغط هنا وسجل معلوماتك</a>
+        </div>
+        <div class="app_banner">
+            <img src="https://d.top4top.io/p_3145729p31.png" alt="App Banner">
+        </div>
+    </section>
+    <footer>
+        <p>&copy; جميع الحقوق محفوظة 2024</p>
+    </footer>
+</body>
+</html>
